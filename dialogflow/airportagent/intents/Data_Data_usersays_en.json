@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ebafabc4-db2c-405e-a17d-bfd12dd242ac",
+    "data": [
+      {
+        "text": "Suggest some best cardiologist in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nagpur",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd3b9431-f507-412d-a97a-2e7599e45179",
+    "data": [
+      {
+        "text": "Best Cardiologists in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nagpur",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

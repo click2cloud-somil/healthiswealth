@@ -1,0 +1,40 @@
+[
+  {
+    "id": "26f30a24-c591-430b-8292-2ce0229bdb87",
+    "data": [
+      {
+        "text": "List of Hospitals in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nagpur",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb503622-bb01-4b96-9769-ce0c38b1e047",
+    "data": [
+      {
+        "text": "Hospitals in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nagpur",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

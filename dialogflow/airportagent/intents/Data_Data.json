@@ -1,0 +1,67 @@
+{
+  "id": "a939eb0a-2c32-43f6-9168-4fd3ef08bafd",
+  "name": "Data_Data",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "defe91b5-a2a9-4f06-9137-be7e5e962df5",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": "Here is the list",
+                  "type": "button",
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "icon": {
+                    "color": "#42f572",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://www.google.com/search?rlz\u003d1C1YTUH_enIN986IN986\u0026tbs\u003dlrf:!1m5!1u2!3m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sCg8SDXJhdGluZ19maWx0ZXIgAQ,lf:1,lf_ui:2\u0026tbm\u003dlcl\u0026sxsrf\u003dALiCzsaslsqM_kH-LzKgi-N0tu7jRQU-eQ:1666329690973\u0026q\u003dbest%20cardiologist%20in%20nagpur\u0026rflfq\u003d1\u0026num\u003d10\u0026sa\u003dX\u0026ved\u003d2ahUKEwiGh7zqyfD6AhVzR3wKHX0mDDEQjGp6BAggEAE\u0026biw\u003d1600\u0026bih\u003d789\u0026dpr\u003d1\u0026rlst\u003df#rlfi\u003dhd:;si:;mv:[[21.1844431,79.10777],[21.0970898,79.04531109999999]];tbs:lrf:!1m5!1u2!3m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sCg8SDXJhdGluZ19maWx0ZXIgAQ,lf:1,lf_ui:2"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

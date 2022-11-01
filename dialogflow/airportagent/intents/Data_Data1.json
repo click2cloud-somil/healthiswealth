@@ -1,0 +1,76 @@
+{
+  "id": "0785a7b9-2c0a-4437-9310-4b9e2150570a",
+  "name": "Data_Data1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4dddfeb9-6701-4564-bc11-ebf6de68727e",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Government Hospitals",
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://nagpur.gov.in/wp-content/themes/district-theme-5/images/emblem-dark.png"
+                        }
+                      },
+                      "link": "https://nagpur.gov.in/public-utility-category/hospitals/"
+                    },
+                    {
+                      "link": "https://www.medifee.com/hospitals-in-nagpur",
+                      "text": "Private Hospitals",
+                      "image": {
+                        "src": {
+                          "rawUrl": "data:image/jpeg;base64,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\u003d\u003d"
+                        }
+                      }
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
